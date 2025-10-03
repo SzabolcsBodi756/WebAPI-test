@@ -11,7 +11,7 @@
 
         public DateTime RelesDate { get; set; }
 
-
+        
 
     }
 }
